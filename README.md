@@ -1,2 +1,2 @@
 # Site-responsivo
-Site responsivo para aula de tecnologia da Kick - 2023
+Site utilizando flexbox para aula de tecnologia da Kick - 2023
